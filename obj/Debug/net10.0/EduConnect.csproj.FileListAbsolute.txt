@@ -1,0 +1,545 @@
+D:\EduConnect\EduConnect\bin\Debug\net10.0\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\net10.0\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.exe
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.csproj.AssemblyReference.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.GeneratedMSBuildEditorConfig.editorconfig
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.AssemblyInfoInputs.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.AssemblyInfo.cs
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.csproj.CoreCompileInputs.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.MvcApplicationPartsAssemblyInfo.cs
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.MvcApplicationPartsAssemblyInfo.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\scopedcss\bundle\EduConnect.styles.css
+D:\EduConnect\EduConnect\obj\Debug\net10.0\staticwebassets.build.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\staticwebassets.development.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\swae.build.ex.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.csproj.Up2Date
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\refint\EduConnect.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.pdb
+D:\EduConnect\EduConnect\obj\Debug\net10.0\EduConnect.genruntimeconfig.cache
+D:\EduConnect\EduConnect\obj\Debug\net10.0\ref\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\net10.0\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\ladqqv42y4-{0}-fzsb3xro76-fzsb3xro76.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\a0ehoiqp87-{0}-w5fcdv4tye-w5fcdv4tye.gz
+D:\EduConnect\EduConnect\bin\Debug\net10.0\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\9j2vbmjk1k-{0}-rc4ysi1jb0-rc4ysi1jb0.gz
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-validation\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-ui-validation\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-sidebar-validation\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-display-validation\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-final-validation\EduConnect.pdb
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\6ynmvopg30-{0}-dplqm85lmh-dplqm85lmh.gz
+D:\EduConnect\EduConnect\bin\Debug\validation\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation2\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation2\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation3\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation3\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation4\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation4\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation-material\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-material-column\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-saved-cards\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\ogp7wvtsid-{0}-sryqdqmlbe-sryqdqmlbe.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\ctllreyg2h-{0}-ny56kv4jzk-ny56kv4jzk.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\013eq1lclh-{0}-sysv0mr8qn-sysv0mr8qn.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\kaoz8rftw4-{0}-vmhwe9u4ir-vmhwe9u4ir.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\lu89nbm5eo-{0}-eyp85c2blo-eyp85c2blo.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\juivhk7g8r-{0}-5ymh4zpp43-5ymh4zpp43.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\h2ny4ro24r-{0}-yy9k55l4c7-yy9k55l4c7.gz
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\appsettings.Development.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\appsettings.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.deps.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\EduConnect.pdb
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\bin\Debug\validation-profile-photo\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\obj\verify\appsettings.Development.json
+D:\EduConnect\EduConnect\obj\verify\appsettings.json
+D:\EduConnect\EduConnect\obj\verify\EduConnect.staticwebassets.runtime.json
+D:\EduConnect\EduConnect\obj\verify\EduConnect.staticwebassets.endpoints.json
+D:\EduConnect\EduConnect\obj\verify\EduConnect.deps.json
+D:\EduConnect\EduConnect\obj\verify\EduConnect.runtimeconfig.json
+D:\EduConnect\EduConnect\obj\verify\EduConnect.dll
+D:\EduConnect\EduConnect\obj\verify\EduConnect.pdb
+D:\EduConnect\EduConnect\obj\verify\BCrypt-Net-Next.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.AspNetCore.OpenApi.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.Bcl.Cryptography.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.Abstractions.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.Logging.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.Protocols.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.IdentityModel.Tokens.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.OpenApi.dll
+D:\EduConnect\EduConnect\obj\verify\Microsoft.SqlServer.Server.dll
+D:\EduConnect\EduConnect\obj\verify\System.Configuration.ConfigurationManager.dll
+D:\EduConnect\EduConnect\obj\verify\System.IdentityModel.Tokens.Jwt.dll
+D:\EduConnect\EduConnect\obj\verify\System.Security.Cryptography.ProtectedData.dll
+D:\EduConnect\EduConnect\obj\verify\cs\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\de\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\es\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\fr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\it\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\ja\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\ko\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\pl\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\ru\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\tr\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\EduConnect\EduConnect\obj\verify\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\obj\verify\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\EduConnect\EduConnect\obj\verify\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\obj\verify\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\obj\verify\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\94i0ffhanx-{0}-ovjlvf0fcf-ovjlvf0fcf.gz
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-build-check\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-enquiry-build-check\EduConnect.pdb
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\cp8vtthyp7-{0}-uepqfu7yvp-uepqfu7yvp.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\tzhmg0o5uh-{0}-4q14r919sg-4q14r919sg.gz
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-bookings-build-check\EduConnect.pdb
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\appsettings.Development.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\appsettings.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.staticwebassets.runtime.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.staticwebassets.endpoints.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.deps.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.runtimeconfig.json
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.dll
+C:\Users\Harsh pandey\AppData\Local\Temp\EduConnect-chatgpt-build-check\EduConnect.pdb
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\bkzcxpvmkb-{0}-tsgxryw6d1-tsgxryw6d1.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\i43x4mc9t4-{0}-zafc4kjp59-zafc4kjp59.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\leud6kyqjf-{0}-zf27ut8x9q-zf27ut8x9q.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\10nzz4iua8-{0}-l0nbtoao19-l0nbtoao19.gz
+D:\EduConnect\EduConnect\obj\Debug\net10.0\compressed\00hzqd5n3o-{0}-8qbpcw6bwk-8qbpcw6bwk.gz

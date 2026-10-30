@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Log in - EduConnect</title>
+<link rel="stylesheet" href="css/style.css?v=3">
+</head>
+<body>
+
+<div class="navbar">
+  <div class="logo">Edu<span class="accent">Connect</span></div>
+  <a href="index.html" class="btn ghost">Back to home</a>
+</div>
+
+<div class="auth-card">
+  <h2>Log in</h2>
+  <p>We'll take you to your dashboard based on your account type.</p>
+  <form id="loginForm">
+    <label>Email</label>
+    <input type="email" name="email" required>
+    <label>Password</label>
+    <div class="password-field" id="loginPasswordField">
+      <input id="loginPassword" type="password" name="password" required autocomplete="current-password">
+      <button type="button" class="password-toggle" aria-label="Show password">
+        <svg class="eye-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"></path><circle cx="12" cy="12" r="2.5"></circle></svg>
+      </button>
+    </div>
+    <button type="submit" class="btn accent full">Log in</button>
+  </form>
+  <p class="switch-link"><a href="forgot-password.html">Forgot Password?</a></p>
+  <p class="switch-link">New here? <a href="signup.html">Create an account</a></p>
+  <p id="loginMessage" class="hint"></p>
+</div>
+
+<script src="js/auth.js?v=2"></script>
+</body>
+</html>

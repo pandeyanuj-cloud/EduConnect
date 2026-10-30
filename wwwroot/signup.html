@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sign up - EduConnect</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="navbar">
+  <div class="logo">Edu<span class="accent">Connect</span></div>
+  <a href="index.html" class="btn ghost">Back to home</a>
+</div>
+
+<div class="auth-card">
+  <h2>Create your account</h2>
+  <p>You can complete your profile after logging in.</p>
+
+  <form id="signupForm">
+    <label>Full name</label>
+    <input type="text" name="fullName" id="fullName" required>
+
+    <label>Email</label>
+    <input type="email" name="email" id="email" required>
+
+    <label>Phone</label>
+    <input type="tel" name="phone" id="phone" required maxlength="10">
+
+    <label>Password</label>
+    <input type="password" name="password" required>
+
+    <label>I am a</label>
+    <select name="role" required>
+      <option value="" disabled selected>Select one</option>
+      <option value="Student">Student</option>
+      <option value="Topper">Topper</option>
+      <option value="ClassOwner">Class Owner</option>
+    </select>
+
+    <button type="submit" class="btn accent full">Create account</button>
+  </form>
+
+  <p class="switch-link">Already have an account? <a href="login.html">Log in</a></p>
+  <p id="signupMessage" class="hint"></p>
+</div>
+
+<script src="js/auth.js"></script>
+</body>
+</html>

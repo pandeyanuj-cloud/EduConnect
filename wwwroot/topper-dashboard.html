@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Topper Dashboard - EduConnect</title><link rel="stylesheet" href="css/style.css?v=20260918" /></head>
+<body class="owner-body">
+  <div class="owner-shell">
+    <aside class="owner-sidebar"><a class="owner-brand" href="topper-dashboard.html"><span class="brand-mark">E</span>Edu<span class="accent">Connect</span></a><nav class="owner-nav"><a class="owner-nav-link active" href="topper-dashboard.html">Profile</a><a class="owner-nav-link" href="topper-enquiries.html">Student Enquiries</a></nav><button class="owner-logout" type="button" data-logout>Logout</button></aside>
+    <main class="owner-main"><header class="owner-header"><div><p class="eyebrow">Topper workspace</p><h1>Profile</h1><p class="owner-intro">Keep your academic profile ready for students to discover.</p></div><span class="owner-user-chip" id="topperName">Topper</span></header>
+      <section class="owner-layout"><div class="owner-panel owner-form-panel"><div class="panel-header"><div><p class="eyebrow" id="formEyebrow">New profile</p><h2 id="formTitle">Create your profile</h2></div><button class="mini-btn ghost hidden" id="cancelEdit" type="button">Cancel edit</button></div>
+        <form id="topperForm" class="owner-form"><label for="name">Name</label><input id="name" required maxlength="100" placeholder="Your full name" /><label for="standard">Standard</label><input id="standard" required maxlength="20" placeholder="10th or 12th" />
+          <div class="owner-form-grid"><div><label for="marks10">10th Persentage</label><input id="marks10" type="number" min="0" max="100" step="0.01" /></div><div><label for="marks12">12th Persentage</label><input id="marks12" type="number" min="0" max="100" step="0.01" /></div></div>
+          <div class="topper-upload-section">
+            <p class="topper-upload-heading">Profile and academic proof</p>
+            <label class="topper-upload-card topper-photo-upload"><span class="topper-upload-icon" aria-hidden="true">↑</span><span class="topper-upload-copy"><strong>Profile photo</strong><small>JPG, PNG or WEBP</small></span><span class="topper-upload-action">Choose photo</span><span class="topper-upload-file" id="photoFileName" aria-live="polite">No photo selected</span><input class="visually-hidden-file topper-file-input" id="photoFile" type="file" accept="image/jpeg,image/png,image/webp" aria-describedby="photoFileName" /></label><input id="photoUrl" type="hidden" />
+            <div class="owner-form-grid topper-proof-grid">
+              <div><label class="topper-upload-card"><span class="topper-upload-icon" aria-hidden="true">↑</span><span class="topper-upload-copy"><strong>10th marksheet / proof</strong><small>Image or PDF</small></span><span class="topper-upload-action">Choose file</span><span class="topper-upload-file" id="marksheet10FileName" aria-live="polite">No file selected</span><input class="visually-hidden-file topper-file-input" id="marksheet10File" type="file" accept="image/jpeg,image/png,image/webp,application/pdf" aria-describedby="marksheet10FileName" /></label><input id="marksheet10Url" type="hidden" /></div>
+              <div><label class="topper-upload-card"><span class="topper-upload-icon" aria-hidden="true">↑</span><span class="topper-upload-copy"><strong>12th marksheet / proof</strong><small>Image or PDF</small></span><span class="topper-upload-action">Choose file</span><span class="topper-upload-file" id="marksheet12FileName" aria-live="polite">No file selected</span><input class="visually-hidden-file topper-file-input" id="marksheet12File" type="file" accept="image/jpeg,image/png,image/webp,application/pdf" aria-describedby="marksheet12FileName" /></label><input id="marksheet12Url" type="hidden" /></div>
+            </div>
+          </div>
+          <label for="description">Description</label><textarea id="description" rows="4" maxlength="1000" placeholder="Tell students about your academic strengths."></textarea>
+          <div class="owner-form-grid"><div><label for="pricePerDay">Price per day</label><input id="pricePerDay" type="number" min="0" step="0.01" /></div><div><label for="pricePerMonth">Price per month</label><input id="pricePerMonth" type="number" min="0" step="0.01" /></div></div><label for="pricePerYear">Price per year</label><input id="pricePerYear" type="number" min="0" step="0.01" />
+          <button class="owner-primary-btn" type="submit">Save profile</button><p class="owner-message" id="topperMessage" role="status"></p>
+        </form>
+      </div><div class="owner-panel owner-list-panel"><div class="panel-header"><div><p class="eyebrow">Student view</p><h2>Your topper card</h2></div></div><div id="topperCard"></div></div></section>
+    </main>
+  </div><script src="js/topper-dashboard.js?v=20261005-topper-upload-ui"></script>
+</body></html>

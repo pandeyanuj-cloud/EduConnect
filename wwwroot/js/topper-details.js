@@ -1,0 +1,11 @@
+function detailEscape(value) { return String(value ?? "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" })[character]); }
+async function loadTopperDetails() {
+  const topperId = new URLSearchParams(window.location.search).get("id");
+  const container = document.getElementById("topperDetails");
+  if (!topperId) { container.innerHTML = "<p class='empty-state'>Topper not found.</p>"; return; }
+  const response = await fetch(`/api/student/toppers/${topperId}`); if (!response.ok) { container.innerHTML = "<p class='empty-state'>Topper not found.</p>"; return; }
+  const topper = await response.json();
+  container.innerHTML = `<div class="detail-layout"><img src="${detailEscape(topper.photoUrl || "https://placehold.co/600x400/edf2f7/1f3c7a?text=Topper")}" alt="${detailEscape(topper.name)}" /><div><p class="eyebrow">Academic profile</p><h2>${detailEscape(topper.name)}</h2><p class="pill-row"><span class="pill">${detailEscape(topper.standard)}</span><span class="pill">10th: ${topper.marks10 ?? "NA"}%</span><span class="pill">12th: ${topper.marks12 ?? "NA"}%</span></p><p>${detailEscape(topper.description || "No description available.")}</p><ul class="detail-list"><li><strong>Price per day:</strong> ₹${Number(topper.pricePerDay || 0).toLocaleString("en-IN")}</li><li><strong>Price per month:</strong> ₹${Number(topper.pricePerMonth || 0).toLocaleString("en-IN")}</li><li><strong>Price per year:</strong> ₹${Number(topper.pricePerYear || 0).toLocaleString("en-IN")}</li></ul><button class="btn accent" id="contactTopperBtn" type="button">Contact</button><p class="hint" id="contactMessage"></p></div></div>`;
+  document.getElementById("contactTopperBtn").addEventListener("click", async () => { const contactResponse = await fetch(`/api/student/toppers/${topperId}/contact`, { method: "POST" }); const result = await contactResponse.json(); document.getElementById("contactMessage").textContent = result.message || "Could not send enquiry."; });
+}
+document.addEventListener("DOMContentLoaded", loadTopperDetails);

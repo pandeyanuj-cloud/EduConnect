@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Dashboard - EduConnect</title>
+  <link rel="stylesheet" href="css/style.css?v=20261001-profile-card-spacing" />
+</head>
+<body class="dashboard-body">
+  <div class="dashboard-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark">E</span>
+        Edu<span class="accent">Connect</span>
+      </div>
+
+      <nav class="sidebar-nav">
+        <button style="color: black;"class="nav-item active" data-section="dashboard">Dashboard</button>
+        <button style="color: black;" class="nav-item" data-section="profile">My Profile</button>
+        <button style="color: black;" class="nav-item" data-section="search">Search Classes</button>
+        <button style="color: black;"class="nav-item" data-section="topper">Topper</button>
+        <button style="color: black;" class="nav-item" data-section="ai">AI Helper</button>
+        <button style="color: black;" class="nav-item" data-section="bookings">My Bookings</button>
+        <button class="nav-item" data-section="saved">Saved Classes</button>
+      </nav>
+
+      <button class="logout-btn" type="button" onclick="localStorage.removeItem('eduConnectUser'); window.location.href='login.html';">Logout</button>
+    </aside>
+
+    <main class="dashboard-main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Student dashboard</p>
+          <h1 id="welcomeTitle">Welcome, Student</h1>
+        </div>
+        <div class="user-chip" id="userChip">Profile ready</div>
+      </header>
+
+      <section id="dashboard" class="view-section">
+        <section class="overview-grid">
+          <div class="panel summary-panel">
+            <p class="summary-line">
+              Looking for classes in <strong id="locationText">your area</strong> for
+              <strong id="standardText">your standard</strong>
+            </p>
+
+            <div class="summary-meta">
+              <div>
+                <span class="meta-label">Subjects</span>
+                <strong id="subjectsText">Not selected</strong>
+              </div>
+              <div>
+                <span class="meta-label">Budget</span>
+                <strong id="budgetText">Not added</strong>
+              </div>
+              <div>
+                <span class="meta-label">Mode</span>
+                <strong id="modeText">Both</strong>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel completion-panel">
+            <span class="meta-label">Profile completion</span>
+            <div class="progress-wrap">
+              <div class="progress-bar" id="completionBar"></div>
+            </div>
+            <strong id="completionText">0%</strong>
+          </div>
+        </section>
+
+        <section class="quick-actions">
+          <button class="action-btn" type="button" data-section="search">Search Classes</button>
+          <button class="action-btn" type="button" data-section="topper">Find Topper</button>
+          <button class="action-btn" type="button" data-section="ai">AI Helper</button>
+          <button class="action-btn" type="button" data-section="bookings">My Bookings</button>
+          <button class="action-btn" type="button" data-section="saved">Saved Classes</button>
+        </section>
+
+        <section class="content-grid">
+          <div class="panel profile-panel">
+            <div class="panel-header">
+              <h2>Student Profile</h2>
+              <button class="mini-btn accent" type="button" id="editProfileBtn">Edit Profile</button>
+            </div>
+
+            <div id="profileCard" class="profile-card"></div>
+          </div>
+
+          <div class="panel recommendations-panel">
+            <div class="panel-header">
+              <h2>Recommended Classes</h2>
+              <span id="classCountBadge" class="badge">0</span>
+            </div>
+            <div id="recommendedClasses" class="class-cards"></div>
+          </div>
+        </section>
+
+        <section class="panel recent-panel">
+          <div class="panel-header">
+            <h2>Recently Viewed / Saved Classes</h2>
+          </div>
+          <div id="recentlyViewed" class="recent-list"></div>
+        </section>
+      </section>
+
+      <section id="profile" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>My Profile</h2>
+            <button class="mini-btn accent" type="button" id="toggleEditProfileBtn">Edit Profile</button>
+          </div>
+
+          <div id="profileDisplay" class="profile-display">
+            <div class="profile-hero">
+              <div class="profile-avatar" id="profileInitials">S</div>
+              <div>
+                <p class="eyebrow">Student profile</p>
+                <h3 id="displayStudentName">Complete your profile</h3>
+                <p id="displayEmail">Your account email will appear here.</p>
+              </div>
+            </div>
+            <div class="profile-detail-grid">
+              <div><span>Mobile</span><strong id="displayMobile">Not added</strong></div>
+              <div><span>Date of birth</span><strong id="displayDateOfBirth">Not added</strong></div>
+              <div><span>Gender</span><strong id="displayGender">Not added</strong></div>
+              <div><span>Standard</span><strong id="displayStandard">Not added</strong></div>
+              <div><span>Board</span><strong id="displayBoard">Not added</strong></div>
+              <div><span>School</span><strong id="displaySchoolName">Not added</strong></div>
+              <div><span>Location</span><strong id="displayLocation">Not added</strong></div>
+              <div><span>Yearly budget</span><strong id="displayBudget">Not added</strong></div>
+              <div><span>Study mode</span><strong id="displayLearningMode">Not added</strong></div>
+            </div>
+            <p id="profileEmptyMessage" class="empty-state">Add your details to unlock a more personal class search experience.</p>
+          </div>
+
+          <form id="studentProfileForm" class="student-form hidden">
+            <div class="profile-photo-wrap">
+              <label class="photo-upload-area" for="profilePhotoFile">
+                <img id="profilePhotoPreview" src="https://placehold.co/120x120/edf2f7/1f3c7a?text=Photo" alt="Profile preview" />
+                <span>Change Photo</span>
+              </label>
+              <input id="profilePhotoFile" type="file" accept="image/png,image/jpeg,image/webp" hidden />
+            </div>
+
+            <div class="form-row">
+              <label for="studentName">Student Name</label>
+              <input id="studentName" name="studentName" type="text" placeholder="Enter your full name" />
+            </div>
+
+            <div class="form-row">
+              <label for="profilePhoto">Profile Photo URL</label>
+              <input id="profilePhoto" name="profilePhoto" type="text" inputmode="url" placeholder="https://... or /uploads/photo.jpg" />
+            </div>
+
+            <div class="form-row">
+              <label for="mobile">Mobile Number</label>
+              <input id="mobile" name="mobile" type="tel" maxlength="10" placeholder="9876543210" />
+            </div>
+
+            <div class="form-row">
+              <label for="dateOfBirth">Date of Birth</label>
+              <input id="dateOfBirth" name="dateOfBirth" type="date" />
+            </div>
+
+            <div class="form-row">
+              <label for="gender">Gender</label>
+              <select id="gender" name="gender">
+                <option value="">Prefer not to say</option>
+                <option value="Female">Female</option>
+                <option value="Male">Male</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
+
+            <div class="form-row location-row">
+              <label for="location">Current / Live Location</label>
+              <div class="inline-actions">
+                <input id="location" name="location" type="text" placeholder="e.g. Virar" />
+                <button class="mini-btn ghost" type="button" id="detectLocationBtn">Use My Location</button>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <label for="standard">Current Standard / Class</label>
+              <select id="standard" name="standard">
+                <option value="">Select standard</option>
+                <option>5th</option><option>6th</option><option>7th</option><option>8th</option>
+                <option>9th</option><option>10th</option><option>11th</option><option>12th</option>
+              </select>
+            </div>
+
+            <div class="form-row">
+              <label for="board">Board</label>
+              <select id="board" name="board">
+                <option value="">Select board</option>
+                <option>SSC</option><option>CBSE</option><option>ICSE</option><option>IB</option><option>Other</option>
+              </select>
+            </div>
+
+            <div class="form-row">
+              <label for="schoolName">School Name</label>
+              <input id="schoolName" name="schoolName" type="text" placeholder="Enter your school name" />
+            </div>
+
+            <div class="form-row">
+              <label for="subjectsInput">Subjects</label>
+              <input id="subjectsInput" name="subjectsInput" type="text" placeholder="Physics, Chemistry, Maths" />
+            </div>
+
+            <div class="form-row">
+              <label for="preferredPriceRange">Expected Yearly Class / Tuition Price</label>
+              <select id="preferredPriceRange" name="preferredPriceRange">
+                <option value="">Select a price range</option>
+                <option>Below ₹10,000/year</option>
+                <option>₹10,000–₹20,000/year</option>
+                <option>₹20,000–₹30,000/year</option>
+                <option>₹30,000–₹50,000/year</option>
+                <option>Above ₹50,000/year</option>
+                <option value="Custom">Custom amount</option>
+              </select>
+            </div>
+
+            <div class="form-row hidden" id="customPriceRow">
+              <label for="customPrice">Custom yearly price</label>
+              <input id="customPrice" name="customPrice" type="number" min="0" step="100" placeholder="Enter amount in rupees" />
+            </div>
+
+            <div class="form-row">
+              <label>Preferred Study Mode</label>
+              <div class="mode-options">
+                <label class="radio-option"><input type="radio" name="learningMode" value="Online" /> Online</label>
+                <label class="radio-option"><input type="radio" name="learningMode" value="Offline" /> Offline</label>
+                <label class="radio-option"><input type="radio" name="learningMode" value="Both" /> Both Online &amp; Offline</label>
+              </div>
+            </div>
+
+            <div class="form-actions">
+              <button class="btn accent" type="submit">Save Changes</button>
+              <button class="mini-btn ghost" type="button" id="cancelProfileBtn">Cancel</button>
+            </div>
+          </form>
+
+          <p id="profileMessage" class="hint"></p>
+        </div>
+      </section>
+
+      <section id="search" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>Search Classes</h2>
+          </div>
+          <p class="hint">If you leave the fields blank, your profile information will be considered.</p>
+
+          <form id="classSearchForm" class="student-form compact-form">
+            <div class="form-row triple-grid">
+              <div class="location-filter"><input id="searchLocation" type="text" placeholder="Location" /><button class="mini-btn ghost" id="useLiveLocationBtn" type="button">Use Live Location</button></div>
+              <input id="searchStandard" type="text" placeholder="Standard" />
+              <input id="searchSubject" type="text" placeholder="Subject" />
+            </div>
+            <div class="form-row triple-grid">
+              <input id="searchMinBudget" type="number" min="0" placeholder="Min Fee / Year" />
+              <input id="searchBudget" type="number" min="0" placeholder="Max Fee / Year" />
+              <select id="searchMode">
+                <option value="All">All Modes</option>
+                <option value="Online">Online</option>
+                <option value="Offline">Offline</option>
+                <option value="Both">Both</option>
+              </select>
+              <input id="searchRating" type="number" min="0" max="5" step="0.1" placeholder="Min Rating" />
+            </div>
+            <button class="btn accent full" type="submit">Apply Filters</button>
+          </form>
+
+          <div id="classSearchResults" class="class-cards search-result-grid"></div>
+        </div>
+      </section>
+
+      <section id="topper" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>Topper</h2>
+          </div>
+          <div id="topperResults" class="class-cards"></div>
+        </div>
+      </section>
+
+      <section id="ai" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>AI Helper</h2>
+          </div>
+          <div class="chat-box" id="aiChatBox">
+            <div class="chat-message assistant">Hi! I can suggest classes based on your profile and budget.</div>
+          </div>
+          <div class="chat-input-row">
+            <input id="aiQuestion" type="text" placeholder="Ask: Suggest the best classes for me" />
+            <button id="askAiBtn" class="btn accent" type="button">Ask</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="bookings" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>My Bookings</h2>
+          </div>
+          <div id="bookingsList" class="booking-list"></div>
+        </div>
+      </section>
+
+      <section id="saved" class="view-section hidden">
+        <div class="panel page-panel">
+          <div class="panel-header">
+            <h2>Saved Classes</h2>
+          </div>
+          <div id="savedClassesList" class="class-cards saved-list"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="classDetailModal" class="modal hidden">
+    <div class="modal-content">
+      <button class="close-modal" type="button" id="closeModalBtn">×</button>
+      <div id="classDetailContent"></div>
+    </div>
+  </div>
+
+  <script src="js/student-dashboard.js?v=20261005-chatgpt-helper"></script>
+</body>
+</html>
